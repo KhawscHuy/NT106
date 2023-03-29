@@ -1,0 +1,11 @@
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\client.csproj.AssemblyReference.cache
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\chat_udp_clientserver.client.resources
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\client.csproj.GenerateResource.cache
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\bin\Debug\client.exe.config
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\bin\Debug\client.exe
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\bin\Debug\client.pdb
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\client.Properties.Resources.resources
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\client.exe
+D:\learn\lap_trinh_mang\chat_udp_clientserver\chat_udp_clientserver\obj\Debug\client.pdb
