@@ -1,0 +1,16 @@
+D:\learn\lap_trinh_mang\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\learn\lap_trinh_mang\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\learn\lap_trinh_mang\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.Lab2.resources
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.baitap1.resources
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.baitap2.resources
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.baitap3.resources
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.baitap4.resources
+D:\learn\lap_trinh_mang\Lab2\Lab2\obj\Debug\Lab2.baitap6.resources
