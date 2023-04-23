@@ -1,0 +1,13 @@
+D:\learn\lap_trinh_mang\lab3\lab3\bin\Debug\lab3.exe.config
+D:\learn\lap_trinh_mang\lab3\lab3\bin\Debug\lab3.exe
+D:\learn\lap_trinh_mang\lab3\lab3\bin\Debug\lab3.pdb
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.main.resources
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.exe
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.pdb
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.client_t1.resources
+D:\learn\lap_trinh_mang\lab3\lab3\obj\Debug\lab3.server_t1.resources
