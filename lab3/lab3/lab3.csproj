@@ -99,6 +99,12 @@
     <EmbeddedResource Include="client_t1.resx">
       <DependentUpon>client_t1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="client_t3.resx">
+      <DependentUpon>client_t3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client_t4.resx">
+      <DependentUpon>client_t4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="main.resx">
       <DependentUpon>main.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,6 +119,15 @@
     </Compile>
     <EmbeddedResource Include="server_t1.resx">
       <DependentUpon>server_t1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="server_t2.resx">
+      <DependentUpon>server_t2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="server_t3.resx">
+      <DependentUpon>server_t3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="server_t4.resx">
+      <DependentUpon>server_t4.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

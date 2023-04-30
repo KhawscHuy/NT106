@@ -55,5 +55,10 @@ namespace lab3
             Thread thdUDPServer = new Thread(new ThreadStart(serverThread));
             thdUDPServer.Start();
         }
+
+        private void rtb_Receive_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

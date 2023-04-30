@@ -47,7 +47,7 @@ namespace lab3
             tb_IpAddr.ReadOnly= true;
             tb_Port.ReadOnly = true;
             client = new UdpClient();
-            
+            MessageBox.Show("kết nối thành công!!!");
         }
 
         private void btn_Send_Click(object sender, EventArgs e)
@@ -55,6 +55,11 @@ namespace lab3
             Byte[] sendBytes = Encoding.UTF8.GetBytes(rtb_Message.Text);
             client.Send(sendBytes, sendBytes.Length, tb_IpAddr.Text, Port);
             rtb_Message.Text = "";
+        }
+
+        private void rtb_Message_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

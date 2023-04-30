@@ -77,6 +77,7 @@
             this.rtb_Receive.Size = new System.Drawing.Size(589, 326);
             this.rtb_Receive.TabIndex = 9;
             this.rtb_Receive.Text = "";
+            this.rtb_Receive.TextChanged += new System.EventHandler(this.rtb_Receive_TextChanged);
             // 
             // server_t1
             // 

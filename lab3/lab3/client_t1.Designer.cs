@@ -106,6 +106,7 @@
             this.rtb_Message.Size = new System.Drawing.Size(484, 259);
             this.rtb_Message.TabIndex = 8;
             this.rtb_Message.Text = "";
+            this.rtb_Message.TextChanged += new System.EventHandler(this.rtb_Message_TextChanged);
             // 
             // client_t1
             // 
