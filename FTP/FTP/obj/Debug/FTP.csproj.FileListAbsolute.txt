@@ -1,0 +1,11 @@
+D:\learn\hệ điều hành\lab6\FTP\FTP\bin\Debug\FTP.exe.config
+D:\learn\hệ điều hành\lab6\FTP\FTP\bin\Debug\FTP.exe
+D:\learn\hệ điều hành\lab6\FTP\FTP\bin\Debug\FTP.pdb
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.csproj.AssemblyReference.cache
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.csproj.SuggestedBindingRedirects.cache
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.Form1.resources
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.Properties.Resources.resources
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.exe
+D:\learn\hệ điều hành\lab6\FTP\FTP\obj\Debug\FTP.pdb
